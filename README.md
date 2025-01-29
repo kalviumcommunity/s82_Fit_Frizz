@@ -1,6 +1,5 @@
-# s82_Fit_Frizz
-This is your first repository
-# Fit & Frizz
+
+<h1>Fit & Frizz</h1>
 
 ## Project Overview
 
