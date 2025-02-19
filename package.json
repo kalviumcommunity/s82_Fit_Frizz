@@ -4,5 +4,25 @@
     "express": "^4.21.2",
     "mongoose": "^8.10.0",
     "nodemon": "^3.1.9"
-  }
+  },
+  "name": "asap",
+  "version": "1.0.0",
+  "description": "<h1>Fit & Frizz</h1>",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srivalli-1/Deploying-your-API-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srivalli-1/Deploying-your-API-2/issues"
+  },
+  "homepage": "https://github.com/Srivalli-1/Deploying-your-API-2#readme"
 }
