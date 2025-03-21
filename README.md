@@ -8,10 +8,10 @@ Fit & Frizz is a unique platform designed to offer personalized hairstyle sugges
 ## Features
 
 ### 1. **Outfit Description**
-- Users can upload an image or provide a description of their outfit, including details like the style (e.g., casual, formal), color, and the occasion (e.g., wedding, party, everyday wear).
+- Users can upload an image or provide a description of their outfit, including details like the style , color, and the occasion 
   
 ### 2. **Hair Type Description**
-- Users will describe their hair type (e.g., straight, curly, wavy) and length, as well as any specific preferences (e.g., hair volume, texture, or concerns).
+- Users will describe their hair type  and length, as well as any specific preferences
   
 ### 3. **Hairstyle Suggestions**
 - Based on the outfit and hair type inputs, the website will generate a range of hairstyle suggestions, including updos, braids, curls, sleek styles, and more.
@@ -34,6 +34,7 @@ Fit & Frizz is a unique platform designed to offer personalized hairstyle sugges
 ## Why This Project?
 
 Fit & Frizz aims to solve a common problem many people face when deciding on the right hairstyle to match their outfit. It provides a personalized, engaging, and intuitive platform where users can save time and energy when styling themselves. Whether for a special event or just an everyday look, users will feel confident and stylish with tailored hairstyle recommendations that perfectly suit their outfits.
+
 
 
 
