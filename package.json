@@ -1,0 +1,19 @@
+{
+  "name": "s82_fit_frizz-1",
+  "version": "1.0.0",
+  "description": "<h1>Fit & Frizz</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/s82_Fit_Frizz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/s82_Fit_Frizz/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/s82_Fit_Frizz#readme"
+}
