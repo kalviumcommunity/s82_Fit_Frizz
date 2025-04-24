@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kalviumcommunity/s82_Fit_Frizz/issues"
   },
-  "homepage": "https://github.com/kalviumcommunity/s82_Fit_Frizz#readme"
+  "homepage": "https://github.com/kalviumcommunity/s82_Fit_Frizz#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
 }
